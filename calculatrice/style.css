@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(80, 68, 68);
+}
+.papa{
+    background-color:whitesmoke;
+    width: 20%;
+    border: 4px solid black;
+    align-items: center;
+    height:250px;
+    margin-left: 350px;
+    margin-top: 80px;
+    border-radius: 20px;
+}
+.chiffre{
+    margin: -10px;
+}

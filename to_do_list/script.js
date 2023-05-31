@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 } else {    
                     taskItem.classList.remove('completed');
                 }
-            });
+            });     
         }
     });
 });
